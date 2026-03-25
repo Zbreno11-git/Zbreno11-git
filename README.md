@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Breno 👋
 
-<!--
-**Zbreno11-git/Zbreno11-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Science student passionate about turning data into insights  
+🐍 Strong foundation in Python and Data Analysis  
+📊 Currently advancing in Data Science & Analytics (Udemy, Codecademy)  
+🌍 Fluent in English | International experience (USA & Australia)  
+🚀 Proactive learner, building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python (Pandas, NumPy, Matplotlib)
+- Data Analysis & Visualization
+- Data Cleaning & Exploration
+- SQL (learning)
+- Statistics (learning)
+  
+___
+
+## 📫 Connect with me
+- Email: zamponibreno1102@gmail.com
+  
+---
+
+⭐ Always learning. Always building.
+
