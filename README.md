@@ -9,11 +9,12 @@
 ---
 
 ## 🧠 Skills
-- Python (Pandas, NumPy, Matplotlib)
-- Data Analysis & Visualization
+- Python (Pandas, NumPy, Scikit-Learn)
+- Data Analysis & Visualization 
 - Data Cleaning & Exploration
+- Machine Learning (Regression, K, RandomForest)
 - SQL (learning)
-- Statistics (learning)
+- Statistics (Chi-Square, Correlation, Hypothesis Testing)
   
 ___
 
