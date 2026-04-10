@@ -1,4 +1,4 @@
-# Hi, I'm Breno 👋
+# Data Analyst | ML & SQL 👋
 
 🎯 Data Science student passionate about turning data into insights  
 🐍 Strong foundation in Python and Data Analysis  
