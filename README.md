@@ -13,7 +13,7 @@
 - Data Analysis & Visualization 
 - Data Cleaning & Exploration
 - Machine Learning (Regression, K, RandomForest)
-- SQL (learning)
+- SQL 
 - Statistics (Chi-Square, Correlation, Hypothesis Testing)
   
 ___
