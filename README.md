@@ -10,8 +10,11 @@
 
 ## 🧠 Skills
 - Python (Pandas, NumPy, Scikit-Learn)
-- Data Analysis & Visualization 
+- Data Analysis & Visualization
+- Tableau & Looker Studio
 - Data Cleaning & Exploration
+- Big Data
+- Business Intelligence 
 - Machine Learning (Regression, K, RandomForest)
 - SQL 
 - Statistics (Chi-Square, Correlation, Hypothesis Testing)
