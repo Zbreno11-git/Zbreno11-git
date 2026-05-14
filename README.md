@@ -23,6 +23,7 @@ ___
 
 ## 📫 Connect with me
 - Email: zamponibreno1102@gmail.com
+- Linkedin: [Click Here](https://www.linkedin.com/in/breno-zamponi-b3bb2a2aa/)
   
 ---
 
