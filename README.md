@@ -1,8 +1,8 @@
 # Data Analyst | ML & SQL 👋
 
-🎯 Data Science student passionate about turning data into insights  
+🎯 Data Scientist passionate about turning data into insights 
 🐍 Strong foundation in Python and Data Analysis  
-📊 Currently advancing in Data Science & Analytics (Udemy, Codecademy)  
+📊 Currently advancing in AI Engineering  
 🌍 Fluent in English | International experience (USA & Australia)  
 🚀 Proactive learner, building real-world projects  
 
@@ -10,12 +10,13 @@
 
 ## 🧠 Skills
 - Python (Pandas, NumPy, Scikit-Learn)
+- AI Engineering
 - Data Analysis & Visualization
 - Tableau & Looker Studio
 - Data Cleaning & Exploration
 - Big Data
 - Business Intelligence 
-- Machine Learning (Regression, K, RandomForest)
+- Machine Learning 
 - SQL 
 - Statistics (Chi-Square, Correlation, Hypothesis Testing)
   
