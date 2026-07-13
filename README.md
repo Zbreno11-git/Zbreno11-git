@@ -1,6 +1,6 @@
 # Data Analyst | ML & SQL 👋
 
-🎯 Data Scientist passionate about turning data into insights 
+🎯 Data Scientist passionate about turning data into insights
 🐍 Strong foundation in Python and Data Analysis  
 📊 Currently advancing in AI Engineering  
 🌍 Fluent in English | International experience (USA & Australia)  
