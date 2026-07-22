@@ -12,8 +12,9 @@
 - Python (Pandas, NumPy, Scikit-Learn)
 - AI Engineering
 - Data Analysis & Visualization
-- Tableau & Looker Studio
+- Tableau | Power BI | Looker Studio
 - Data Cleaning & Exploration
+- Google Cloud (GCP) 
 - Big Data
 - Business Intelligence 
 - Machine Learning 
