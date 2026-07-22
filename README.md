@@ -2,7 +2,7 @@
 
 🎯 Data Scientist passionate about turning data into insights
 🐍 Strong foundation in Python and Data Analysis  
-📊 Currently advancing in AI Engineering  
+📊 Currently advancing in AI & Data Engineering  
 🌍 Fluent in English | International experience (USA & Australia)  
 🚀 Proactive learner, building real-world projects  
 
