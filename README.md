@@ -1,4 +1,4 @@
-# Data Analyst | ML & SQL 👋
+# Data Analyst | ML & AI 👋
 
 🎯 Data Scientist passionate about turning data into insights
 🐍 Strong foundation in Python and Data Analysis  
